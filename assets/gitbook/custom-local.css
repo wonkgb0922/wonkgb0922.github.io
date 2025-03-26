@@ -24,6 +24,7 @@ details[open] summary {
 details > div {
     padding: 10px;
     background: white;
+    color: black;
     border-radius: 5px;
     margin-top: 5px;
 }
