@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: 2025 캐릭터
 permalink: /
 ---
 
