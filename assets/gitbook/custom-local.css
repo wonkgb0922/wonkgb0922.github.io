@@ -3,8 +3,3 @@
  * Its purpose is for users of the theme to be able to add css rules from a blank file
  *   these get simply added to the ones already active in the layout.
  */
-
-.box {
-  background-color: lightgray; /* 원하는 색상으로 변경 */
-  color: black;
-}
