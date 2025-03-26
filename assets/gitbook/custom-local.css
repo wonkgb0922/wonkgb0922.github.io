@@ -21,10 +21,3 @@ details[open] summary {
     color: #0055aa;  /* 펼쳐진 상태에서의 색상 */
 }
 
-.hightlight {
-    padding: 10px;
-    background: white;
-    color: black;
-    border-radius: 5px;
-    margin-top: 5px;
-}
