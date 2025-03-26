@@ -3,3 +3,27 @@
  * Its purpose is for users of the theme to be able to add css rules from a blank file
  *   these get simply added to the ones already active in the layout.
  */
+details {
+    background: #f8f9fa;  /* 배경색 */
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+summary {
+    font-weight: bold;  /* 글씨 굵게 */
+    cursor: pointer;  /* 마우스 포인터 변경 */
+    color: #0077cc;  /* 글자색 */
+    padding: 5px;
+}
+
+details[open] summary {
+    color: #0055aa;  /* 펼쳐진 상태에서의 색상 */
+}
+
+details > div {
+    padding: 10px;
+    background: white;
+    border-radius: 5px;
+    margin-top: 5px;
+}
