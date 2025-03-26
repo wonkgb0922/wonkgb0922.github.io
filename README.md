@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 2025 캐릭터
+title: 👨‍🏫2025 캐릭터
 permalink: /
 ---
 
